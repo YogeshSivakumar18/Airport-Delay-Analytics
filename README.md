@@ -2,7 +2,7 @@
 # ✈️ Airport Delay Analytics: Machine Learning & Passenger Feedback Insights
 
 **Classifying Airport Delays and Recommending Improvements Using ML and NLP**  
-_By Prasanth Ramaswamy & Yogesh Sivakumar_
+_By Yogesh Sivakumar_
 
 ---
 
@@ -73,7 +73,7 @@ This project tackles the persistent issue of flight delays across U.S. airports 
 
 ---
 
-## 💬 NLP-Driven Recommendations
+## NLP-Driven Recommendations
 
 Used structured + unstructured passenger feedback to identify issues at high-delay airports:
 
@@ -82,7 +82,7 @@ Used structured + unstructured passenger feedback to identify issues at high-del
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
 📦 airport-delay-analytics/
@@ -93,19 +93,6 @@ Used structured + unstructured passenger feedback to identify issues at high-del
 ├── 📜 README.md                             # Project overview
 └── .gitignore                               # Ignored files list
 ```
-
----
-
-## 📥 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/airport-delay-analytics.git
-   ```
-2. Open the notebook in [Google Colab](https://colab.research.google.com) or Jupyter.
-3. Follow the pipeline from data loading to model evaluation and insights.
-
----
 
 ## 📄 Project Report
 
@@ -128,8 +115,7 @@ Used structured + unstructured passenger feedback to identify issues at high-del
 ---
 
 ## 👥 Authors
-
-- **Prasanth Ramaswamy** (24134252@studentmail.ul.ie)  
+  
 - **Yogesh Sivakumar** (24150029@studentmail.ul.ie)
 
 ---
